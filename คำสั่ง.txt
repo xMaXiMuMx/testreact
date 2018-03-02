@@ -1,0 +1,17 @@
+cmd
+
+- npm install -g create-react-app
+
+- SET PATH=%PATH%C:\Users\%USERNAME%\AppData\Roaming\npm
+
+- create-react-app hello
+
+php
+
+- open -> hello
+
+-cmd -> npm start
+
+- * ‡ª‘¥‰ø≈Ï∑’Ë import App from './xxx';
+-*·°È‰¢‰ø≈Ï App.js,App.css
+
